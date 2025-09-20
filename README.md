@@ -1,2 +1,2 @@
-Small project made while reading learning git book.
-Used to practice basic git commands and workflow.
+small project made while reading *learning git* from o'reilly.  
+used to practice basic git commands and workflow.  
